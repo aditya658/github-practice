@@ -1,0 +1,4 @@
+welcome to edu 1
+
+:q
+welocme to prac 2
