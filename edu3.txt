@@ -1,3 +1,14 @@
+C
+C
+C
+B
+A
+A
+B
+
+B
+C
+B
 Cthis is 3rd
 
 t
